@@ -7,4 +7,12 @@ Este projeto foi desenvolvido de acordo com a API dos Pokemons.
 https://decisive-slave.surge.sh/
 
 
+# O que funciona
+
+
+-Pode se visualizar os detalhes de cada pokemon.
+-Pode adicionar pokemons a sua pokedex.
+-Colocar dois pokemons para batalhar.
+
+
 
