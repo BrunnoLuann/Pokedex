@@ -10,11 +10,14 @@ https://decisive-slave.surge.sh/
 # O que funciona
 
 <li>
--Pode se visualizar os detalhes de cada pokemon.
--Pode adicionar pokemons a sua pokedex.
--Colocar dois pokemons para batalhar.
-  
-  </li>
+Pode se visualizar os detalhes de cada pokemon.
+</li>
+<li>
+Pode adicionar pokemons a sua pokedex.
+</li>
+<li>
+Colocar dois pokemons para batalhar.
+</li>
 
 
 
