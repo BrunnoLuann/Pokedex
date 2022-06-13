@@ -18,6 +18,19 @@ Pode adicionar pokemons a sua pokedex.
 <li>
 Colocar dois pokemons para batalhar.
 </li>
+<li>
+Mostra o resultado da batalha.
+</li>
+
+# Tecnologias do projeto
+
+<li>Requisições de API's</li>
+<li>Componentes funcionais</li>
+<li>hooks</li>
+<li>Global states</li>
+<li>Router</li>
+<li>Styled-components</li>
+<li>material MUI</li>
 
 ## imagens
 
